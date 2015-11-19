@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceDiscovery.One", "ServiceDiscovery.One\ServiceDiscovery.One.csproj", "{C0022E1C-356E-48BC-837D-244B2C63E746}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceDiscovery.Two", "ServiceDiscovery.Two\ServiceDiscovery.Two.csproj", "{A4EB8299-3BF3-4A0B-9821-58300FECC837}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0022E1C-356E-48BC-837D-244B2C63E746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0022E1C-356E-48BC-837D-244B2C63E746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0022E1C-356E-48BC-837D-244B2C63E746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0022E1C-356E-48BC-837D-244B2C63E746}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4EB8299-3BF3-4A0B-9821-58300FECC837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4EB8299-3BF3-4A0B-9821-58300FECC837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4EB8299-3BF3-4A0B-9821-58300FECC837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4EB8299-3BF3-4A0B-9821-58300FECC837}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
